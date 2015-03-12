@@ -1,0 +1,8 @@
+Main-Class: Main
+Name: java_gestionMatriculas
+Specification-Title: Gestion de matriculas
+Specification-Version: 1.1
+Specification-Vendor: Zubiri
+Implementation-Title: java.util
+Implementation-Version: build11
+Implementation-Vendor: zubiri
